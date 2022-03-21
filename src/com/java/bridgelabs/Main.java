@@ -6,6 +6,8 @@ public class Main {
     {
         System.out.println("*-*-*-*-*- Welcome -*-*-*-*-*");
         System.out.println("Create First Branch");
+        System.out.println("Create Second Branch");
+
 
     }
 }
